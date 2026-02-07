@@ -1,4 +1,4 @@
-##### HEART-DISEASE
+######### HEART-DISEASE
 Heart Disease Prediction – Machine Learning Project
 Overview
 This project predicts whether a person is at risk of heart disease using different medical features such as age, sex, chest pain type, blood pressure, cholesterol, etc.
